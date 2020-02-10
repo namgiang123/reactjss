@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Giang",
+        "permission": 1,
+        "tel": "0480298092"
+    },
+    {
+        "id": 2,
+        "name": "Harden",
+        "permission": 1,
+        "tel": "03214122"
+    },
+    {
+        "id": 3,
+        "name": "Jame",
+        "permission": 2,
+        "tel": "06456342"
+    },
+    {
+        "id": 4,
+        "name": "Curry",
+        "permission": 2,
+        "tel": "4234235"
+    },
+    {
+        "id": 5,
+        "name": "Giang",
+        "permission": 2,
+        "tel": "12524132"
+    },
+    {
+        "id": 6,
+        "name": "Phen",
+        "permission": 2,
+        "tel": "54352523"
+    },
+    {
+        "id": 7,
+        "name": "Step",
+        "permission": 1,
+        "tel": "231634765135"
+    },
+    {
+        "id": 8,
+        "name": "Son",
+        "permission": 1,
+        "tel": "2135132612"
+    },
+    {
+        "id": 9,
+        "name": "Han",
+        "permission": 2,
+        "tel": "27347235"
+    },
+    {
+        "id": 10,
+        "name": "John",
+        "permission": 2,
+        "tel": "5234627"
+    }
+]
